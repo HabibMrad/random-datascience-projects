@@ -3,7 +3,7 @@ import pandas as pd
 import pandas_datareader as pdr
 from datetime import datetime
 
-# Select the 505 stocks of SP500 plus the SP500 itself
+# Select the 30 stocks of DJI plus the DJI itself
 stocks = ['MMM', 'AXP', 'AAPL', 'BA', 'CAT', 'CVX', 'CSCO', 'KO', 'DOW', 'XOM', 
            'GS', 'HD', 'IBM', 'INTC', 'JNJ', 'JPM', 'MCD', 'MRK', 'MSFT', 'NKE', 
            'PFE', 'PG', 'RTX', 'TRV', 'UNH', 'VZ', 'V', 'WMT', 'WBA', 'DIS']

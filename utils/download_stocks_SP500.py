@@ -1,4 +1,4 @@
-# Basics
+# Imports
 import pandas as pd
 import pandas_datareader as pdr
 from datetime import datetime
@@ -24,4 +24,4 @@ df.columns.name = None
 df.index.name = None
 
 # Save the data
-df.to_csv('data/SP500_stocks_2000_2019.csv')
+df.to_csv('../data/SP500_stocks_2000_2019.csv')

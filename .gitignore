@@ -1,6 +1,11 @@
-# Jupyter Notebook
+# Python files
 .ipynb_checkpoints
 
-# Heavy data files
-data/DJI_stocks_2000_2019.csv
-data/SP500_stocks_2000_2019.csv
+# Pycharm files
+.idea
+
+# Data
+data
+
+# WIP
+WIP
